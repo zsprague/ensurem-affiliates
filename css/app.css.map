@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,CACF,KAAK,CCKA,OAAO,CDJZ,UAAU,CCMJ,OAAO,CDLb,WAAW,CCSA,sBAAuB,CDRlC,SAAS,CCSC,IAAI,CDRd,MAAM,CAAE,CAAC,CELX,MAAM,CACJ,MAAM,CAAE,IAAI,CACZ,UAAU,CDIL,OAAO,CCHZ,KAAK,CDMC,IAAI,CCLV,SAAE,CACA,MAAM,CAAE,CAAC,CACT,WAAW,CAAE,IAAI,CCNrB,MAAM,CACJ,UAAU,CAAE,MAAM,CCDpB,OAAO,CACL,UAAU,CHQJ,IAAI,CGPV,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,MAAM,CACd,OAAO,CAAE,IAAI,CACb,UAAE,CACA,UAAU,CAAE,MAAM",
+"sources": ["../sass/1-base/base.sass","../sass/0-plugins/variables.sass","../sass/2-layouts/header.sass","../sass/2-layouts/footer.sass","../sass/3-modules/article.sass"],
+"names": [],
+"file": "app.css"
+}
