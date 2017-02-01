@@ -1,0 +1,47 @@
+// FORMS
+
+// INPUTS
+
+#{$all-text-inputs}
+  position: relative
+  padding: 10px
+  font-size: $base-size
+  box-shadow: none
+  border-radius: 7px
+  border: solid 2px $mid
+  color: $dark
+
+#{$all-text-inputs-focus},
+#{$all-text-inputs-hover}
+  border: solid 2px $primary
+  outline: none
+  +placeholder
+    color: $alt
+
+#{$all-text-inputs-focus},
+  box-shadow: 0 0 2px $primary
+
+
+// BUTTON INPUTS
+
+#{$all-buttons}
+  background:
+    color: $accent
+  font-size: $base-size
+  padding: 11px 20px
+  border: solid 1px $accent
+    radius: 7px
+  color: $white
+
+#{$all-buttons-focus},
+#{$all-buttons-hover}
+  background:
+    color: $primary
+  border: solid 1px $primary
+  cursor: pointer
+  outline: none
+
+#{$all-buttons-active},
+  outline: none
+  position: relative
+  top: 2px

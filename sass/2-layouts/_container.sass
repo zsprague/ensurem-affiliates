@@ -1,0 +1,15 @@
+// CONTAINER LAYOUTS
+
+.container
+  max-width: 768px
+  width: 100%
+  margin: 0 auto
+  padding: 40px
+  box-sizing: border-box
+  +clearfix
+
+article
+  +columns(2 200px)
+  +column-gap($gutter)
+  p
+    margin: 0
