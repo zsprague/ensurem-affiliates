@@ -1,2 +1,222 @@
-body{color:#343434;font-family:"Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;font-size:16px;margin:0}.brand{overflow:hidden;text-indent:101%;white-space:nowrap;background-image:url(/assets/logos/affco-logo-white.png);background-size:cover;background-repeat:no-repeat;width:152px;height:40px;float:left;margin-top:5px;opacity:.8;transition:500ms}.brand:hover{opacity:1}h1{margin:0}a{color:#63bc46}a:hover{color:#f26429}.white{background-color:#fff}.primary{background-color:#63bc46}.black{background-color:#000}.alt{background-color:#488933}.mid{background-color:#777}.light{background-color:#f1f1f1}.accent{background-color:#f26429}.dark{background-color:#343434}.text-white{color:#fff}.text-primary{color:#63bc46}.text-black{color:#000}.text-alt{color:#488933}.text-mid{color:#777}.test-light{color:#f1f1f1}.text-accent{color:#f26429}.flex-center{display:flex;align-items:center;justify-content:center}.flex-around{display:flex;align-items:center;justify-content:space-around}header{height:50px;background:rgba(52,52,52,0.8);color:#fff;position:fixed;width:100%}header h1{margin:0;line-height:50px}footer{text-align:center;background:#343434;color:#fff;padding:5px 0}section{padding:30px 0}section::after{clear:both;content:"";display:table}.container{max-width:768px;width:100%;margin:0 auto;padding:40px;box-sizing:border-box}.container::after{clear:both;content:"";display:table}article{-webkit-columns:2 200px;-moz-columns:2 200px;columns:2 200px;-webkit-column-gap:30px;-moz-column-gap:30px;column-gap:30px}article p{margin:0}#main-nav{max-width:760px;margin:0 auto;padding:0 40px}#main-nav-links{float:right;text-transform:uppercase;font-size:12px;line-height:25px;padding:0}#main-nav-links li{display:inline;margin-left:20px}#main-nav-links li a{text-decoration:none;transition:500ms}#main-hero{background-image:url(/assets/heros/main.jpg);background-size:cover;background-repeat:no-repeat;background-position:center;height:100vh}#home-hero{color:#fff;background:rgba(99,188,70,0.75);padding:15px 60px}#home-hero h1{font-size:60px;text-transform:uppercase}.box{height:32%;width:32%;background:#fff;color:#343434;box-sizing:border-box;text-align:center;line-height:200px}input[type="color"],input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="email"],input[type="month"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],input[type="time"],input[type="url"],input[type="week"],input:not([type]),textarea{position:relative;padding:10px;font-size:16px;box-shadow:none;border-radius:7px;border:solid 2px #777;color:#343434}input[type="color"]:focus,input[type="date"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="email"]:focus,input[type="month"]:focus,input[type="number"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="text"]:focus,input[type="time"]:focus,input[type="url"]:focus,input[type="week"]:focus,input:not([type]):focus,textarea:focus,input[type="color"]:hover,input[type="date"]:hover,input[type="datetime"]:hover,input[type="datetime-local"]:hover,input[type="email"]:hover,input[type="month"]:hover,input[type="number"]:hover,input[type="password"]:hover,input[type="search"]:hover,input[type="tel"]:hover,input[type="text"]:hover,input[type="time"]:hover,input[type="url"]:hover,input[type="week"]:hover,input:not([type]):hover,textarea:hover{border:solid 2px #63bc46;outline:none}input[type="color"]:focus::-webkit-input-placeholder,input[type="date"]:focus::-webkit-input-placeholder,input[type="datetime"]:focus::-webkit-input-placeholder,input[type="datetime-local"]:focus::-webkit-input-placeholder,input[type="email"]:focus::-webkit-input-placeholder,input[type="month"]:focus::-webkit-input-placeholder,input[type="number"]:focus::-webkit-input-placeholder,input[type="password"]:focus::-webkit-input-placeholder,input[type="search"]:focus::-webkit-input-placeholder,input[type="tel"]:focus::-webkit-input-placeholder,input[type="text"]:focus::-webkit-input-placeholder,input[type="time"]:focus::-webkit-input-placeholder,input[type="url"]:focus::-webkit-input-placeholder,input[type="week"]:focus::-webkit-input-placeholder,input:not([type]):focus::-webkit-input-placeholder,textarea:focus::-webkit-input-placeholder,input[type="color"]:hover::-webkit-input-placeholder,input[type="date"]:hover::-webkit-input-placeholder,input[type="datetime"]:hover::-webkit-input-placeholder,input[type="datetime-local"]:hover::-webkit-input-placeholder,input[type="email"]:hover::-webkit-input-placeholder,input[type="month"]:hover::-webkit-input-placeholder,input[type="number"]:hover::-webkit-input-placeholder,input[type="password"]:hover::-webkit-input-placeholder,input[type="search"]:hover::-webkit-input-placeholder,input[type="tel"]:hover::-webkit-input-placeholder,input[type="text"]:hover::-webkit-input-placeholder,input[type="time"]:hover::-webkit-input-placeholder,input[type="url"]:hover::-webkit-input-placeholder,input[type="week"]:hover::-webkit-input-placeholder,input:not([type]):hover::-webkit-input-placeholder,textarea:hover::-webkit-input-placeholder{color:#488933}input[type="color"]:focus::-moz-placeholder,input[type="date"]:focus::-moz-placeholder,input[type="datetime"]:focus::-moz-placeholder,input[type="datetime-local"]:focus::-moz-placeholder,input[type="email"]:focus::-moz-placeholder,input[type="month"]:focus::-moz-placeholder,input[type="number"]:focus::-moz-placeholder,input[type="password"]:focus::-moz-placeholder,input[type="search"]:focus::-moz-placeholder,input[type="tel"]:focus::-moz-placeholder,input[type="text"]:focus::-moz-placeholder,input[type="time"]:focus::-moz-placeholder,input[type="url"]:focus::-moz-placeholder,input[type="week"]:focus::-moz-placeholder,input:not([type]):focus::-moz-placeholder,textarea:focus::-moz-placeholder,input[type="color"]:hover::-moz-placeholder,input[type="date"]:hover::-moz-placeholder,input[type="datetime"]:hover::-moz-placeholder,input[type="datetime-local"]:hover::-moz-placeholder,input[type="email"]:hover::-moz-placeholder,input[type="month"]:hover::-moz-placeholder,input[type="number"]:hover::-moz-placeholder,input[type="password"]:hover::-moz-placeholder,input[type="search"]:hover::-moz-placeholder,input[type="tel"]:hover::-moz-placeholder,input[type="text"]:hover::-moz-placeholder,input[type="time"]:hover::-moz-placeholder,input[type="url"]:hover::-moz-placeholder,input[type="week"]:hover::-moz-placeholder,input:not([type]):hover::-moz-placeholder,textarea:hover::-moz-placeholder{color:#488933}input[type="color"]:focus:-moz-placeholder,input[type="date"]:focus:-moz-placeholder,input[type="datetime"]:focus:-moz-placeholder,input[type="datetime-local"]:focus:-moz-placeholder,input[type="email"]:focus:-moz-placeholder,input[type="month"]:focus:-moz-placeholder,input[type="number"]:focus:-moz-placeholder,input[type="password"]:focus:-moz-placeholder,input[type="search"]:focus:-moz-placeholder,input[type="tel"]:focus:-moz-placeholder,input[type="text"]:focus:-moz-placeholder,input[type="time"]:focus:-moz-placeholder,input[type="url"]:focus:-moz-placeholder,input[type="week"]:focus:-moz-placeholder,input:not([type]):focus:-moz-placeholder,textarea:focus:-moz-placeholder,input[type="color"]:hover:-moz-placeholder,input[type="date"]:hover:-moz-placeholder,input[type="datetime"]:hover:-moz-placeholder,input[type="datetime-local"]:hover:-moz-placeholder,input[type="email"]:hover:-moz-placeholder,input[type="month"]:hover:-moz-placeholder,input[type="number"]:hover:-moz-placeholder,input[type="password"]:hover:-moz-placeholder,input[type="search"]:hover:-moz-placeholder,input[type="tel"]:hover:-moz-placeholder,input[type="text"]:hover:-moz-placeholder,input[type="time"]:hover:-moz-placeholder,input[type="url"]:hover:-moz-placeholder,input[type="week"]:hover:-moz-placeholder,input:not([type]):hover:-moz-placeholder,textarea:hover:-moz-placeholder{color:#488933}input[type="color"]:focus:-ms-input-placeholder,input[type="date"]:focus:-ms-input-placeholder,input[type="datetime"]:focus:-ms-input-placeholder,input[type="datetime-local"]:focus:-ms-input-placeholder,input[type="email"]:focus:-ms-input-placeholder,input[type="month"]:focus:-ms-input-placeholder,input[type="number"]:focus:-ms-input-placeholder,input[type="password"]:focus:-ms-input-placeholder,input[type="search"]:focus:-ms-input-placeholder,input[type="tel"]:focus:-ms-input-placeholder,input[type="text"]:focus:-ms-input-placeholder,input[type="time"]:focus:-ms-input-placeholder,input[type="url"]:focus:-ms-input-placeholder,input[type="week"]:focus:-ms-input-placeholder,input:not([type]):focus:-ms-input-placeholder,textarea:focus:-ms-input-placeholder,input[type="color"]:hover:-ms-input-placeholder,input[type="date"]:hover:-ms-input-placeholder,input[type="datetime"]:hover:-ms-input-placeholder,input[type="datetime-local"]:hover:-ms-input-placeholder,input[type="email"]:hover:-ms-input-placeholder,input[type="month"]:hover:-ms-input-placeholder,input[type="number"]:hover:-ms-input-placeholder,input[type="password"]:hover:-ms-input-placeholder,input[type="search"]:hover:-ms-input-placeholder,input[type="tel"]:hover:-ms-input-placeholder,input[type="text"]:hover:-ms-input-placeholder,input[type="time"]:hover:-ms-input-placeholder,input[type="url"]:hover:-ms-input-placeholder,input[type="week"]:hover:-ms-input-placeholder,input:not([type]):hover:-ms-input-placeholder,textarea:hover:-ms-input-placeholder{color:#488933}input[type="color"]:focus,input[type="date"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="email"]:focus,input[type="month"]:focus,input[type="number"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="text"]:focus,input[type="time"]:focus,input[type="url"]:focus,input[type="week"]:focus,input:not([type]):focus,textarea:focus{box-shadow:0 0 2px #63bc46}button,input[type="button"],input[type="reset"],input[type="submit"]{background-color:#f26429;font-size:16px;padding:11px 20px;border:solid 1px #f26429;border-radius:7px;color:#fff}button:focus,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{background-color:#63bc46;border:solid 1px #63bc46;cursor:pointer;outline:none}button:active,input[type="button"]:active,input[type="reset"]:active,input[type="submit"]:active{outline:none;position:relative;top:2px}.no-pad{padding:0}
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+body {
+  color: #343434;
+  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  margin: 0; }
+
+.brand {
+  overflow: hidden;
+  text-indent: 101%;
+  white-space: nowrap;
+  background-image: url(/assets/logos/affco-logo-white.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 152px;
+  height: 40px;
+  float: left;
+  margin-top: 5px;
+  opacity: .8;
+  transition: 500ms; }
+  .brand:hover {
+    opacity: 1; }
+
+h1 {
+  margin: 0; }
+
+a {
+  color: #63bc46; }
+  a:hover {
+    color: #f26429; }
+
+.white {
+  background-color: #fff; }
+
+.primary {
+  background-color: #63bc46; }
+
+.black {
+  background-color: #000; }
+
+.alt {
+  background-color: #488933; }
+
+.mid {
+  background-color: #777; }
+
+.light {
+  background-color: #f1f1f1; }
+
+.accent {
+  background-color: #f26429; }
+
+.dark {
+  background-color: #343434; }
+
+.text-white {
+  color: #fff; }
+
+.text-primary {
+  color: #63bc46; }
+
+.text-black {
+  color: #000; }
+
+.text-alt {
+  color: #488933; }
+
+.text-mid {
+  color: #777; }
+
+.test-light {
+  color: #f1f1f1; }
+
+.text-accent {
+  color: #f26429; }
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.flex-around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around; }
+
+header {
+  height: 50px;
+  background: rgba(52, 52, 52, 0.8);
+  color: #fff;
+  position: fixed;
+  width: 100%; }
+  header h1 {
+    margin: 0;
+    line-height: 50px; }
+
+footer {
+  text-align: center;
+  background: #343434;
+  color: #fff;
+  padding: 5px 0; }
+
+section {
+  padding: 30px 0; }
+
+.container {
+  max-width: 768px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  box-sizing: border-box; }
+
+article {
+  -webkit-columns: 2 200px;
+  -moz-columns: 2 200px;
+  columns: 2 200px;
+  -webkit-column-gap: 30px;
+  -moz-column-gap: 30px;
+  column-gap: 30px; }
+  article p {
+    margin: 0; }
+
+#main-nav {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 40px; }
+
+#main-nav-links {
+  float: right;
+  text-transform: uppercase;
+  font-size: 12px;
+  line-height: 25px;
+  padding: 0; }
+  #main-nav-links li {
+    display: inline;
+    margin-left: 20px; }
+    #main-nav-links li a {
+      text-decoration: none;
+      transition: 500ms; }
+
+#main-hero {
+  background-image: url(/assets/heros/main.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; }
+
+#home-hero {
+  color: #fff;
+  background: rgba(99, 188, 70, 0.75);
+  padding: 15px 60px; }
+  #home-hero h1 {
+    font-size: 60px;
+    text-transform: uppercase; }
+
+.box {
+  height: 32%;
+  width: 32%;
+  background: #fff;
+  color: #343434;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 200px; }
+
+input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], input:not([type]), textarea {
+  position: relative;
+  padding: 10px;
+  font-size: 16px;
+  box-shadow: none;
+  border-radius: 7px;
+  border: solid 2px #777;
+  color: #343434; }
+
+input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="email"]:focus, input[type="month"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="week"]:focus, input:not([type]):focus, textarea:focus,
+input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="email"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover, input:not([type]):hover, textarea:hover {
+  border: solid 2px #63bc46;
+  outline: none; }
+  input[type="color"]:focus::-webkit-input-placeholder, input[type="date"]:focus::-webkit-input-placeholder, input[type="datetime"]:focus::-webkit-input-placeholder, input[type="datetime-local"]:focus::-webkit-input-placeholder, input[type="email"]:focus::-webkit-input-placeholder, input[type="month"]:focus::-webkit-input-placeholder, input[type="number"]:focus::-webkit-input-placeholder, input[type="password"]:focus::-webkit-input-placeholder, input[type="search"]:focus::-webkit-input-placeholder, input[type="tel"]:focus::-webkit-input-placeholder, input[type="text"]:focus::-webkit-input-placeholder, input[type="time"]:focus::-webkit-input-placeholder, input[type="url"]:focus::-webkit-input-placeholder, input[type="week"]:focus::-webkit-input-placeholder, input:not([type]):focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder,
+  input[type="color"]:hover::-webkit-input-placeholder, input[type="date"]:hover::-webkit-input-placeholder, input[type="datetime"]:hover::-webkit-input-placeholder, input[type="datetime-local"]:hover::-webkit-input-placeholder, input[type="email"]:hover::-webkit-input-placeholder, input[type="month"]:hover::-webkit-input-placeholder, input[type="number"]:hover::-webkit-input-placeholder, input[type="password"]:hover::-webkit-input-placeholder, input[type="search"]:hover::-webkit-input-placeholder, input[type="tel"]:hover::-webkit-input-placeholder, input[type="text"]:hover::-webkit-input-placeholder, input[type="time"]:hover::-webkit-input-placeholder, input[type="url"]:hover::-webkit-input-placeholder, input[type="week"]:hover::-webkit-input-placeholder, input:not([type]):hover::-webkit-input-placeholder, textarea:hover::-webkit-input-placeholder {
+    color: #488933; }
+  input[type="color"]:focus::-moz-placeholder, input[type="date"]:focus::-moz-placeholder, input[type="datetime"]:focus::-moz-placeholder, input[type="datetime-local"]:focus::-moz-placeholder, input[type="email"]:focus::-moz-placeholder, input[type="month"]:focus::-moz-placeholder, input[type="number"]:focus::-moz-placeholder, input[type="password"]:focus::-moz-placeholder, input[type="search"]:focus::-moz-placeholder, input[type="tel"]:focus::-moz-placeholder, input[type="text"]:focus::-moz-placeholder, input[type="time"]:focus::-moz-placeholder, input[type="url"]:focus::-moz-placeholder, input[type="week"]:focus::-moz-placeholder, input:not([type]):focus::-moz-placeholder, textarea:focus::-moz-placeholder,
+  input[type="color"]:hover::-moz-placeholder, input[type="date"]:hover::-moz-placeholder, input[type="datetime"]:hover::-moz-placeholder, input[type="datetime-local"]:hover::-moz-placeholder, input[type="email"]:hover::-moz-placeholder, input[type="month"]:hover::-moz-placeholder, input[type="number"]:hover::-moz-placeholder, input[type="password"]:hover::-moz-placeholder, input[type="search"]:hover::-moz-placeholder, input[type="tel"]:hover::-moz-placeholder, input[type="text"]:hover::-moz-placeholder, input[type="time"]:hover::-moz-placeholder, input[type="url"]:hover::-moz-placeholder, input[type="week"]:hover::-moz-placeholder, input:not([type]):hover::-moz-placeholder, textarea:hover::-moz-placeholder {
+    color: #488933; }
+  input[type="color"]:focus:-moz-placeholder, input[type="date"]:focus:-moz-placeholder, input[type="datetime"]:focus:-moz-placeholder, input[type="datetime-local"]:focus:-moz-placeholder, input[type="email"]:focus:-moz-placeholder, input[type="month"]:focus:-moz-placeholder, input[type="number"]:focus:-moz-placeholder, input[type="password"]:focus:-moz-placeholder, input[type="search"]:focus:-moz-placeholder, input[type="tel"]:focus:-moz-placeholder, input[type="text"]:focus:-moz-placeholder, input[type="time"]:focus:-moz-placeholder, input[type="url"]:focus:-moz-placeholder, input[type="week"]:focus:-moz-placeholder, input:not([type]):focus:-moz-placeholder, textarea:focus:-moz-placeholder,
+  input[type="color"]:hover:-moz-placeholder, input[type="date"]:hover:-moz-placeholder, input[type="datetime"]:hover:-moz-placeholder, input[type="datetime-local"]:hover:-moz-placeholder, input[type="email"]:hover:-moz-placeholder, input[type="month"]:hover:-moz-placeholder, input[type="number"]:hover:-moz-placeholder, input[type="password"]:hover:-moz-placeholder, input[type="search"]:hover:-moz-placeholder, input[type="tel"]:hover:-moz-placeholder, input[type="text"]:hover:-moz-placeholder, input[type="time"]:hover:-moz-placeholder, input[type="url"]:hover:-moz-placeholder, input[type="week"]:hover:-moz-placeholder, input:not([type]):hover:-moz-placeholder, textarea:hover:-moz-placeholder {
+    color: #488933; }
+  input[type="color"]:focus:-ms-input-placeholder, input[type="date"]:focus:-ms-input-placeholder, input[type="datetime"]:focus:-ms-input-placeholder, input[type="datetime-local"]:focus:-ms-input-placeholder, input[type="email"]:focus:-ms-input-placeholder, input[type="month"]:focus:-ms-input-placeholder, input[type="number"]:focus:-ms-input-placeholder, input[type="password"]:focus:-ms-input-placeholder, input[type="search"]:focus:-ms-input-placeholder, input[type="tel"]:focus:-ms-input-placeholder, input[type="text"]:focus:-ms-input-placeholder, input[type="time"]:focus:-ms-input-placeholder, input[type="url"]:focus:-ms-input-placeholder, input[type="week"]:focus:-ms-input-placeholder, input:not([type]):focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder,
+  input[type="color"]:hover:-ms-input-placeholder, input[type="date"]:hover:-ms-input-placeholder, input[type="datetime"]:hover:-ms-input-placeholder, input[type="datetime-local"]:hover:-ms-input-placeholder, input[type="email"]:hover:-ms-input-placeholder, input[type="month"]:hover:-ms-input-placeholder, input[type="number"]:hover:-ms-input-placeholder, input[type="password"]:hover:-ms-input-placeholder, input[type="search"]:hover:-ms-input-placeholder, input[type="tel"]:hover:-ms-input-placeholder, input[type="text"]:hover:-ms-input-placeholder, input[type="time"]:hover:-ms-input-placeholder, input[type="url"]:hover:-ms-input-placeholder, input[type="week"]:hover:-ms-input-placeholder, input:not([type]):hover:-ms-input-placeholder, textarea:hover:-ms-input-placeholder {
+    color: #488933; }
+
+input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="email"]:focus, input[type="month"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="week"]:focus, input:not([type]):focus, textarea:focus {
+  box-shadow: 0 0 2px #63bc46; }
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+  background-color: #f26429;
+  font-size: 16px;
+  padding: 11px 20px;
+  border: solid 1px #f26429;
+    border-radius: 7px;
+  color: #fff; }
+
+button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus,
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+  background-color: #63bc46;
+  border: solid 1px #63bc46;
+  cursor: pointer;
+  outline: none; }
+
+button:active, input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active {
+  outline: none;
+  position: relative;
+  top: 2px; }
+
+.no-pad {
+  padding: 0; }
+
 /*# sourceMappingURL=app.css.map */
