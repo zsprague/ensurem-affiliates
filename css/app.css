@@ -108,8 +108,26 @@ footer {
 section {
   padding: 30px 0; }
 
+.outer-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto; }
+  .outer-container::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+.col-4 {
+  background: #63bc46;
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 23.23176%; }
+  .col-4:last-child {
+    margin-right: 0; }
+
 .container {
-  max-width: 768px;
+  max-width: 1200px;
   width: 100%;
   margin: 0 auto;
   padding: 40px;
@@ -155,7 +173,7 @@ article {
   background: rgba(99, 188, 70, 0.75);
   padding: 15px 60px; }
   #home-hero h1 {
-    font-size: 60px;
+    font-size: 50px;
     text-transform: uppercase; }
 
 .box {
@@ -218,5 +236,9 @@ button:active, input[type="button"]:active, input[type="reset"]:active, input[ty
 
 .no-pad {
   padding: 0; }
+
+.no-pad-sides {
+  padding-left: 0;
+  padding-right: 0; }
 
 /*# sourceMappingURL=app.css.map */
